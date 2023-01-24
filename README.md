@@ -1,0 +1,2 @@
+# strapi
+Blank strapi project
